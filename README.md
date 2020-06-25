@@ -13,7 +13,7 @@ Este repositório foi desenvolvido com base nos estudos do conteudo [Learn GO wi
 
 
 
-'___________________________________________________________________________________________________________'
+'________________________________________________________________'
 
 ### About
 The GOWithTest is repositorie based 
